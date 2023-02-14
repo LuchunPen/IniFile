@@ -1,12 +1,10 @@
 ﻿/*
-Copyright (c) Luchunpen (bwolf88).  All rights reserved.
+Copyright (c) Luchunpen.
 Date: 25.07.2016 18:37:20
 */
 
 using System;
 using System.Collections.Generic;
-
-//using Nano3;
 
 namespace System.IO
 {
